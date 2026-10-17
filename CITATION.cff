@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper when using this software or its results."
+title: "Propensity Straight-Through Gradients for Discrete Stochastic Systems"
+authors:
+  - family-names: Vilar
+    given-names: Jose M. G.
+  - family-names: Saiz
+    given-names: Leonor
+preferred-citation:
+  type: article
+  title: "Propensity Straight-Through Gradients for Discrete Stochastic Systems"
+  authors:
+    - family-names: Vilar
+      given-names: Jose M. G.
+    - family-names: Saiz
+      given-names: Leonor
+  year: 2026
+  journal: arXiv
+  doi: 10.48550/arXiv.2608.25631
+  url: https://arxiv.org/abs/2608.25631

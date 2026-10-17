@@ -1,0 +1,9 @@
+name: pst
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11.15
+  - pip=26.0.1
+  - pip:
+      - -r requirements.txt
